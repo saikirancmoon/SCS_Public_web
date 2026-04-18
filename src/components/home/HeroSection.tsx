@@ -137,11 +137,6 @@ const branches = {
         </AnimatePresence>
       </div>
 
-      <div className="pointer-events-none absolute inset-0 z-10">
-        <div className="absolute left-0 right-0 top-28 h-px bg-white/10" />
-        <div className="absolute bottom-36 left-0 right-0 h-px bg-white/10" />
-      </div>
-
       <div className="relative z-10 flex min-h-screen items-center pb-16 pt-96 md:pb-14">
         <div className="container mx-auto grid items-center gap-10 px-6 lg:grid-cols-[1.08fr_0.92fr]">
           <div>
